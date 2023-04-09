@@ -1,0 +1,36 @@
+# Arquivos de build do Maven
+target/
+
+# Arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Logs e arquivos de cache
+log/
+*.log
+*.log.*
+*.jks
+*.p12
+*.pem
+*.pkcs12
+
+# Arquivos temporários
+*.swp
+*.bak
+*~
+.#*
+.DS_Store
+
+# Dependências Maven
+dependency-reduced-pom.xml
+maven-archiver/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+checkstyle-config.xml
+
+# Diretórios específicos de IDEs
+.idea/

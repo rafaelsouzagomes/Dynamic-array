@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>data-structure</groupId>
+  <artifactId>dynamic-array</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>DynamicArray</name>
+  <description>Um dynamic array é uma estrutura de dados que permite o armazenamento de elementos em sequência, com a vantagem de poder aumentar ou diminuir de tamanho dinamicamente durante a execução do programa.</description>
+<dependencies>
+	<dependency>
+	    <groupId>junit</groupId>
+	    <artifactId>junit</artifactId>
+	    <version>4.13.2</version>
+	    <scope>test</scope>
+	</dependency>
+</dependencies>
+</project>
